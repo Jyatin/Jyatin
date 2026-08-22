@@ -1,129 +1,170 @@
- <div align="center">
+  <div align="center">
 
-<img src="https://github.com/Jyatin.png" width="120" style="border-radius:50%;" alt="Jyatin Kumar Singh" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=200&section=header&animation=fadeIn" width="100%" />
 
-# Jyatin Kumar Singh
+<img src="https://github.com/Jyatin.png" width="130" style="border-radius:50%;border:4px solid #8E2DE2;box-shadow:0 0 20px #8E2DE2;" alt="Jyatin Kumar Singh" />
 
-### Full-Stack Developer • DSA • Open Source
+### <samp>Jyatin Kumar Singh</samp>
 
-<p>
-Prefer first: better learning speed, real-world problem-solving, and clean, maintainable software.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;DSA+%2B+Competitive+Programmer;Open+Source+Contributor;Building+AI-powered+apps" alt="Typing SVG" />
 
-<a href="https://www.linkedin.com/in/jyatin-singh-88984831b/">
-  <img src="https://img.shields.io/badge/LinkedIn-Jyatin%20Singh-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:singhjyatin@gmail.com">
-  <img src="https://img.shields.io/badge/Email-singhjyatin%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<br/>
+
+<a href="https://www.linkedin.com/in/jyatin-singh-88984831b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:singhjyatin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Jyatin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=Jyatin&style=for-the-badge&color=4A00E0&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
 <br/>
 
-## About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=3&width=100%" width="100%" />
 
-I'm a B.Tech Computer Science & Engineering student focused on full-stack development, with a strong emphasis on Data Structures & Algorithms and active contribution to open source. I enjoy building real-world software and exploring AI-powered applications, and I'm currently deepening my knowledge of backend architecture and system design.
+## 🧭&nbsp; About Me
 
-**Areas I work in:**
-- Full-stack web development (MERN + TypeScript)
-- Data Structures & Algorithms / competitive programming
-- Open-source contribution and collaborative development
-- AI-powered applications and RAG-based systems
+```yaml
+role: "B.Tech CSE Student"
+focus: "Full-Stack Development"
+practicing: "Data Structures & Algorithms"
+contributing_to: "Open Source"
+exploring: "AI-powered applications, RAG systems"
+philosophy: "Ship clean, learn fast, build for the real world"
+```
 
 <br/>
 
-## Featured Projects
+## 🚀&nbsp; Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>NEXORA</h3>
-      <p>Full-stack video streaming platform.</p>
-      <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>AskPDF</h3>
-      <p>AI-powered PDF interaction application built with retrieval-augmented generation.</p>
-      <p><code>TypeScript</code> <code>AI</code> <code>RAG</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>KiranaWala</h3>
-      <p>Hyperlocal smart grocery platform — digital ordering, store management, inventory management, and order processing.</p>
-      <p><code>MERN Stack</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>MyString</h3>
-      <p>Custom C++ String implementation with OOP design and dynamic memory management.</p>
-      <p><code>C++17</code> <code>OOP</code> <code>Operator Overloading</code></p>
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+<td width="50%">
+
+### 🎬 [NEXORA](https://github.com/Jyatin)
+Full-stack video streaming platform.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+
+</td>
+<td width="50%">
+
+### 📄 [AskPDF](https://github.com/Jyatin)
+AI-powered PDF interaction app using RAG.
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-4A00E0?style=flat-square" /> <img src="https://img.shields.io/badge/AI-00C9FF?style=flat-square" />
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛒 [KiranaWala](https://github.com/Jyatin)
+Hyperlocal grocery platform — ordering, inventory & store management.
+
+<img src="https://img.shields.io/badge/MERN-00C9FF?style=flat-square" />
+
+</td>
+<td width="50%">
+
+### 🔤 [MyString](https://github.com/Jyatin)
+Custom C++ String class with OOP & manual memory management.
+
+<img src="https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/OOP-4A00E0?style=flat-square" />
+
+</td>
+</tr>
 </table>
 
 <br/>
 
-## Tech Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,react,html,css,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,postman,docker" alt="Tech Stack" />
-</div>
-
-<br/>
-
-## Open Source Contributions
-
-- **OpenFeature JS SDK** — Open pull request: [`fix(react): honor default value for missing feature flags`](https://github.com/open-feature/js-sdk/pull/1451) *(Status: Open)*
-- **Lingui** — Recent contribution
-- **freeCodeCamp**
-- **First Contributions**
-- **Appwrite**
-
-I believe open source is one of the best ways to grow as an engineer — it teaches real-world collaboration, code review discipline, and how to write software others can build on. I try to bring that same discipline to every project I ship, writing code that is clean, well-tested, and documented well enough for someone else to pick up.
-
-<br/>
-
-## DSA / Problem Solving
-
-`Data Structures & Algorithms` `Competitive Programming` `LeetCode` `Codeforces` `Binary Search` `Two Pointers` `Sliding Window` `Recursion` `Trees` `Graphs` `Dynamic Programming`
-
-<br/>
-
-## Current Focus
-
-- Strengthening backend architecture, REST API design, and authentication/authorization fundamentals
-- Going deeper on system design
-- Staying consistent with DSA practice
-- Increasing the quality and frequency of open-source contributions
-- Learning advanced React, TypeScript, Node.js, Express, and MongoDB in depth
-
-<br/>
-
-## GitHub Stats
+## 🛠️&nbsp; Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jyatin&show_icons=true&theme=default&hide_border=true" alt="Jyatin's GitHub Stats" width="48%" />
-<img src="https://streak-stats.demolab.com?user=Jyatin&hide_border=true" alt="Jyatin's GitHub Streak" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyatin&layout=compact&hide_border=true" alt="Top Languages" width="48%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jyatin&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+<img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,react,html,css,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,postman,docker&theme=dark&perline=9" />
 
 </div>
 
 <br/>
 
-## 📫 Connect With Me
+## 🌱&nbsp; Open Source
+
+<table width="100%">
+<tr><td>
+
+**OpenFeature JS SDK** &nbsp;•&nbsp; 🟢 `Open PR`
+[`fix(react): honor default value for missing feature flags`](https://github.com/open-feature/js-sdk/pull/1451)
+
+</td></tr>
+<tr><td>
+
+**Lingui** &nbsp;•&nbsp; recent contribution
+
+</td></tr>
+<tr><td>
+
+**freeCodeCamp** &nbsp;·&nbsp; **First Contributions** &nbsp;·&nbsp; **Appwrite**
+
+</td></tr>
+</table>
+
+> *"Open source teaches what no tutorial can — real collaboration, real review, real code that has to make sense to someone else."*
+
+<br/>
+
+## 🧩&nbsp; DSA / Problem Solving
 
 <div align="center">
 
-**Email:** [singhjyatin@gmail.com](mailto:singhjyatin@gmail.com)
-<br/>
-**LinkedIn:** [linkedin.com/in/jyatin-singh-88984831b](https://www.linkedin.com/in/jyatin-singh-88984831b/)
-<br/>
-**GitHub:** [github.com/Jyatin](https://github.com/Jyatin)
+![](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+
+`Binary Search` `Two Pointers` `Sliding Window` `Recursion` `Trees` `Graphs` `Dynamic Programming`
 
 </div>
 
+<br/>
+
+## 🎯&nbsp; Current Focus
+
+- [ ] Backend architecture, REST API design, auth & authorization
+- [ ] System design fundamentals
+- [ ] Daily DSA practice
+- [ ] Deeper, more frequent open-source contributions
+- [ ] Advanced React, TypeScript, Node.js, Express, MongoDB
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=3&width=100%" width="100%" />
+
+## 📊&nbsp; GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jyatin&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=00C9FF&icon_color=8E2DE2" width="48%" />
+<img src="https://streak-stats.demolab.com?user=Jyatin&theme=radical&hide_border=true&background=00000000&ring=8E2DE2&fire=00C9FF" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyatin&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=00C9FF" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Jyatin&theme=radical&no-frame=true&row=1&column=6" />
+
+</div>
+
+<br/>
+
+## 📫&nbsp; Connect With Me
+
+<div align="center">
+
+<a href="mailto:singhjyatin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jyatin-singh-88984831b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Jyatin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:4A00E0,100:8E2DE2&height=120&section=footer" width="100%" />
+
+</div>
