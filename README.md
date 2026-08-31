@@ -1,4 +1,10 @@
- <div align="center">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Jyatin's GitHub profile" src="dark_mode.svg" />
+</picture>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=200&section=header&animation=fadeIn" width="100%" />
 
