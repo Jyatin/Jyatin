@@ -204,6 +204,18 @@ Custom C++ String implementation with OOP design and dynamic memory management.
 
 <img src="https://github-profile-trophy.vercel.app/?username=Jyatin&theme=radical&no-frame=true&row=1&column=6" />
 
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyatin&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jyatin/Jyatin/output/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jyatin/Jyatin/output/dist/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jyatin/Jyatin/output/dist/github-snake-dark.svg" />
+</picture>
+
 </div>
 
 <br/>
