@@ -22,38 +22,24 @@
 
 <br/>
 
-## 🖥️ &nbsp;`~/jyatin`
+## 👋 &nbsp;About Me
 
 ```text
 ┌─ jyatin@github ───────────────────────────────┐
 │                                               │
-│ $ whoami                                      │
-│ Jyatin Kumar Singh                            │
-│                                               │
-│ $ education                                   │
-│ Pre-Final Year B.Tech CSE Student @ LPU       │
-│                                               │
-│ $ currently_building                          │
-│ Full-stack apps + AI experiments              │
-│                                               │
-│ $ interests                                   │
-│ DSA • Open Source • AI • Backend              │
-│                                               │
 │ $ status                                      │
-│ ● coding...                                   │
+│ ● I like turning random ideas into working    │
+│   software.                                   │
+│                                               │
+│ ● Currently building full-stack apps,         │
+│   solving DSA problems, contributing to open  │
+│   source, and experimenting with AI/RAG.      │
+│                                               │
+│ ● Sometimes the code works on the first try.  │
+│   Usually it doesn't.                         │
 │                                               │
 └───────────────────────────────────────────────┘
 ```
-
-<br/>
-
-## 👋 &nbsp;About Me
-
-I like turning random ideas into working software. 
-
-Currently building full-stack apps, solving DSA problems, contributing to open source, and experimenting with AI/RAG pipelines. 
-
-Sometimes the code works on the first try. Usually it doesn't. 
 
 <br/>
 
@@ -118,6 +104,18 @@ Sometimes the code works on the first try. Usually it doesn't.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=3&width=100%" width="100%" />
 
+## 🚧 &nbsp;Currently Building
+
+```text
+🟣 Backend architecture
+🔵 AI / RAG experiments
+🟢 Open source contributions
+🟡 DSA consistency
+🔴 System design
+```
+
+<br/>
+
 ## 🌱 &nbsp;Open Source
 
 <table>
@@ -132,46 +130,9 @@ Sometimes the code works on the first try. Usually it doesn't.
 
 <br/>
 
-## 🧩 &nbsp;Currently Fighting With Algorithms
-
-`Binary Search` `Two Pointers` `Sliding Window` `Recursion` `Trees` `Graphs` `Dynamic Programming`
-
-> *Still negotiating with Dynamic Programming.*
-
-<div align="center">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-</div>
-
-<br/>
-
-## 🚧 &nbsp;Currently Building
-
-```text
-🟣 Backend architecture
-🔵 AI / RAG experiments
-🟢 Open source contributions
-🟡 DSA consistency
-🔴 System design
-```
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:4A00E0,100:8E2DE2&height=3&width=100%" width="100%" />
 
-## 🐍 &nbsp;Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jyatin/Jyatin/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jyatin/Jyatin/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jyatin/Jyatin/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
-<br/>
-
-## 📊 &nbsp;GitHub Stats Dashboard
+## 📊 &nbsp;GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jyatin&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=00C9FF&icon_color=8E2DE2&text_color=C9D1D9" width="48%" />
@@ -188,6 +149,20 @@ Sometimes the code works on the first try. Usually it doesn't.
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyatin&theme=react-dark&bg_color=00000000&color=00C9FF&line=8E2DE2&point=FFFFFF&hide_border=true" width="90%" />
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=3&width=100%" width="100%" />
+
+## 🐍 &nbsp;Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jyatin/Jyatin/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jyatin/Jyatin/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jyatin/Jyatin/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
 
 <br/>
