@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 160" width="420" height="160" font-family="monospace">
-<text x="16" y="34" font-size="32" fill="var(--fgColor-default, #ccc)" font-weight="bold">118</text>
+<text x="16" y="34" font-size="32" fill="var(--fgColor-default, #ccc)" font-weight="bold">119</text>
 <text x="16" y="54" font-size="12" fill="var(--fgColor-muted, #888)" font-weight="normal">contributions in the last year</text>
 <rect x="16.0" y="140" width="22.6" height="0" fill="var(--fgColor-accent, #58a6ff)" rx="1"/>
 <rect x="48.3" y="140" width="22.6" height="0" fill="var(--fgColor-accent, #58a6ff)" rx="1"/>
@@ -7,9 +7,9 @@
 <rect x="113.0" y="140" width="22.6" height="0" fill="var(--fgColor-accent, #58a6ff)" rx="1"/>
 <rect x="145.3" y="140" width="22.6" height="0" fill="var(--fgColor-accent, #58a6ff)" rx="1"/>
 <rect x="177.7" y="128" width="22.6" height="12" fill="var(--fgColor-accent, #58a6ff)" rx="1"/>
-<rect x="210.0" y="124" width="22.6" height="16" fill="var(--fgColor-accent, #58a6ff)" rx="1"/>
-<rect x="242.3" y="135" width="22.6" height="5" fill="var(--fgColor-accent, #58a6ff)" rx="1"/>
-<rect x="274.7" y="120" width="22.6" height="20" fill="var(--fgColor-accent, #58a6ff)" rx="1"/>
+<rect x="210.0" y="122" width="22.6" height="18" fill="var(--fgColor-accent, #58a6ff)" rx="1"/>
+<rect x="242.3" y="138" width="22.6" height="2" fill="var(--fgColor-accent, #58a6ff)" rx="1"/>
+<rect x="274.7" y="121" width="22.6" height="19" fill="var(--fgColor-accent, #58a6ff)" rx="1"/>
 <rect x="307.0" y="112" width="22.6" height="28" fill="var(--fgColor-accent, #58a6ff)" rx="1"/>
 <rect x="339.3" y="80" width="22.6" height="60" fill="var(--fgColor-accent, #58a6ff)" rx="1"/>
 <rect x="371.7" y="140" width="22.6" height="0" fill="var(--fgColor-accent, #58a6ff)" rx="1"/>
