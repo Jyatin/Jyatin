@@ -50,21 +50,12 @@
 <table bordercolor="#4A00E0">
   <tr>
     <td width="50%" valign="top">
-      <h3>🌱 CropCycle</h3>
-      <p>Full-stack crop-cycle analysis platform that processes multi-temporal NDVI data and detects crop growth stages.</p>
-      <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>NDVI</code>
-      <br/><br/>
-      <a href="https://github.com/Jyatin/Extraction-of-Crop-Cycle-Parameters-from-Multi-Temporal-Data"><img src="https://img.shields.io/badge/View_Project-00C9FF?style=for-the-badge&logo=github&logoColor=black" /></a>
-    </td>
-    <td width="50%" valign="top">
       <h3>📄 AskPDF</h3>
       <p>AI-powered PDF interaction application using retrieval-augmented generation.</p>
       <code>TypeScript</code> <code>AI</code> <code>RAG</code>
       <br/><br/>
       <a href="https://github.com/Jyatin/AskPDF"><img src="https://img.shields.io/badge/View_Project-8E2DE2?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🛒 KiranaWala</h3>
       <p>Hyperlocal smart grocery platform with digital ordering, store management, and inventory management.</p>
@@ -72,6 +63,8 @@
       <br/><br/>
       <a href="https://github.com/Jyatin/KiranaWala"><img src="https://img.shields.io/badge/View_Project-00C9FF?style=for-the-badge&logo=github&logoColor=black" /></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🛠️ FixMyWay</h3>
       <p>Full-stack project focused on building a practical digital solution for everyday users.</p>
@@ -79,8 +72,6 @@
       <br/><br/>
       <a href="https://github.com/Jyatin/-fixmyway"><img src="https://img.shields.io/badge/View_Project-8E2DE2?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🔤 MyString</h3>
       <p>Custom C++ String implementation focusing on OOP, dynamic memory management, and operator overloading.</p>
@@ -88,12 +79,21 @@
       <br/><br/>
       <a href="https://github.com/Jyatin/MyString"><img src="https://img.shields.io/badge/View_Project-00C9FF?style=for-the-badge&logo=github&logoColor=black" /></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🌐 OpenStory</h3>
       <p>Open-source contribution to Storybook tooling: migrated the MSW setup to v3 and fixed Windows Vite path resolution.</p>
       <code>TypeScript</code> <code>Storybook</code> <code>MSW</code>
       <br/><br/>
       <a href="https://github.com/openstory-so/openstory/pull/1307"><img src="https://img.shields.io/badge/Merged_PR_1307-00C9FF?style=for-the-badge&logo=github&logoColor=black" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌱 CropCycle</h3>
+      <p>Full-stack crop-cycle analysis platform that processes multi-temporal NDVI data and detects crop growth stages.</p>
+      <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>NDVI</code>
+      <br/><br/>
+      <a href="https://github.com/Jyatin/Extraction-of-Crop-Cycle-Parameters-from-Multi-Temporal-Data"><img src="https://img.shields.io/badge/View_Project-8E2DE2?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
 </table>
