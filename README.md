@@ -50,34 +50,50 @@
 <table bordercolor="#4A00E0">
   <tr>
     <td width="50%" valign="top">
-      <h3>🎬 NEXORA</h3>
-      <p>Full-stack video streaming platform.</p>
-      <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
+      <h3>🌱 CropCycle</h3>
+      <p>Full-stack crop-cycle analysis platform that processes multi-temporal NDVI data and detects crop growth stages.</p>
+      <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>NDVI</code>
       <br/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/View_Project-8E2DE2?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="https://github.com/Jyatin/Extraction-of-Crop-Cycle-Parameters-from-Multi-Temporal-Data"><img src="https://img.shields.io/badge/View_Project-00C9FF?style=for-the-badge&logo=github&logoColor=black" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>📄 AskPDF</h3>
-      <p>AI-powered PDF interaction application using RAG.</p>
+      <p>AI-powered PDF interaction application using retrieval-augmented generation.</p>
       <code>TypeScript</code> <code>AI</code> <code>RAG</code>
       <br/><br/>
-      <a href="https://github.com/Jyatin/AskPDF"><img src="https://img.shields.io/badge/View_Project-00C9FF?style=for-the-badge&logo=github&logoColor=black" /></a>
+      <a href="https://github.com/Jyatin/AskPDF"><img src="https://img.shields.io/badge/View_Project-8E2DE2?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🛒 KiranaWala</h3>
-      <p>Hyperlocal smart grocery platform features digital ordering, store & inventory management.</p>
+      <p>Hyperlocal smart grocery platform with digital ordering, store management, and inventory management.</p>
       <code>MERN Stack</code>
       <br/><br/>
       <a href="https://github.com/Jyatin/KiranaWala"><img src="https://img.shields.io/badge/View_Project-00C9FF?style=for-the-badge&logo=github&logoColor=black" /></a>
     </td>
     <td width="50%" valign="top">
+      <h3>🛠️ FixMyWay</h3>
+      <p>Full-stack project focused on building a practical digital solution for everyday users.</p>
+      <code>Full Stack</code>
+      <br/><br/>
+      <a href="https://github.com/Jyatin/-fixmyway"><img src="https://img.shields.io/badge/View_Project-8E2DE2?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🔤 MyString</h3>
-      <p>Custom C++ String implementation focusing on OOP and dynamic memory management.</p>
+      <p>Custom C++ String implementation focusing on OOP, dynamic memory management, and operator overloading.</p>
       <code>C++</code> <code>OOP</code> <code>Memory Management</code>
       <br/><br/>
-      <a href="#"><img src="https://img.shields.io/badge/View_Project-8E2DE2?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="https://github.com/Jyatin/MyString"><img src="https://img.shields.io/badge/View_Project-00C9FF?style=for-the-badge&logo=github&logoColor=black" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 OpenStory</h3>
+      <p>Open-source contribution to Storybook tooling: migrated the MSW setup to v3 and fixed Windows Vite path resolution.</p>
+      <code>TypeScript</code> <code>Storybook</code> <code>MSW</code>
+      <br/><br/>
+      <a href="https://github.com/openstory-so/openstory/pull/1307"><img src="https://img.shields.io/badge/Merged_PR_1307-00C9FF?style=for-the-badge&logo=github&logoColor=black" /></a>
     </td>
   </tr>
 </table>
@@ -119,6 +135,11 @@
 ## 🌱 &nbsp;Open Source
 
 <table>
+  <tr>
+    <td>🟢</td>
+    <td><b>OpenStory</b><br/><code>fix: migrate Storybook MSW setup to v3</code><br/><sub>✓ Merged · 3 files changed · 1 commit</sub></td>
+    <td><a href="https://github.com/openstory-so/openstory/pull/1307"><img src="https://img.shields.io/badge/View_Merged_PR_↗-181717?style=for-the-badge&logo=github" /></a></td>
+  </tr>
   <tr>
     <td>🟢</td>
     <td><b>OpenFeature JS SDK</b><br/><code>fix(react): honor default value for missing feature flags</code></td>
