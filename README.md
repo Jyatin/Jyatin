@@ -29,7 +29,7 @@
 
 I'm **Jyatin Kumar Singh**, a CSE student at **Lovely Professional University** who enjoys building practical software and understanding how things work under the hood.
 
-- 💻 Building **full-stack web applications** with JavaScript/TypeScript, React and Node.js
+- 💻 Building **full-stack web applications** with JavaScript/TypeScript, React, Next.js and Node.js
 - 🧠 Practising **DSA and problem solving**, with a focus on Java
 - 🤖 Exploring **AI, RAG and intelligent applications**
 - 🌱 Contributing to and learning from **open-source projects**
@@ -49,7 +49,7 @@ I'm **Jyatin Kumar Singh**, a CSE student at **Lovely Professional University** 
 | 🛠️ [**FixMyWay**](https://github.com/Jyatin/-fixmyway) | Full-stack application focused on solving a practical everyday problem | Full Stack |
 | 🔤 [**MyString**](https://github.com/Jyatin/MyString) | Custom C++ String implementation exploring OOP, memory management and operator overloading | C++ • OOP |
 | 🌱 [**CropCycle**](https://github.com/Jyatin/Extraction-of-Crop-Cycle-Parameters-from-Multi-Temporal-Data) | Crop-cycle analysis platform using multi-temporal NDVI data | React • Node.js • Express • MongoDB |
-| 🌐 [**Portfolio v3**](https://github.com/Jyatin/portfolio-v3) | Personal portfolio and frontend showcase | Frontend |
+| 🌐 [**Portfolio v3**](https://github.com/Jyatin/portfolio-v3) | Personal portfolio and frontend showcase | Frontend • Next.js |
 
 ---
 
@@ -77,7 +77,7 @@ Worked on a React fix related to default values for missing feature flags.
 <img src="https://skillicons.dev/icons?i=java,cpp,js,ts&theme=dark" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" />
 
 ### Backend & Databases
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
