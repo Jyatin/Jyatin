@@ -2,16 +2,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=220&section=header&animation=fadeIn&fontAlign=50&fontAlignY=35" width="100%" />
 
-<img src="https://github.com/Jyatin.png" width="150" style="border-radius:50%;border:4px solid #00C9FF;" alt="Jyatin Kumar Singh" />
+<img src="https://github.com/Jyatin.png" width="150" alt="Jyatin Kumar Singh" />
 
-<h1>⚡ Jyatin Kumar Singh ⚡</h1>
+# ⚡ Jyatin Kumar Singh
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00C9FF&center=true&vCenter=true&width=650&lines=Pre-Final+Year+CSE+Student+%40+LPU;Full-Stack+Developer;DSA+Problem+Solver;Open+Source+Contributor;AI+%2F+RAG+Explorer;Building+things+%26+learning+along+the+way" alt="Typing SVG" />
+### Full-Stack Developer • DSA Problem Solver • AI/RAG Explorer • Open Source Contributor
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00C9FF&center=true&vCenter=true&width=760&lines=Building+full-stack+applications;Solving+DSA+problems+consistently;Exploring+AI%2FRAG+systems;Contributing+to+open+source;Turning+ideas+into+working+software" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://github.com/Jyatin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00C9FF" /></a>
 <a href="https://www.linkedin.com/in/jyatin-singh-88984831b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/Jyatin_singh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 <a href="mailto:singhjyatin@gmail.com"><img src="https://img.shields.io/badge/Email-4A00E0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
@@ -20,186 +23,130 @@
 
 </div>
 
-<br/>
+---
 
-## 👋 &nbsp;About Me
+## 👋 About Me
 
-```text
-┌─ jyatin@github ───────────────────────────────┐
-│                                               │
-│ $ status                                      │
-│ ● I like turning random ideas into working    │
-│   software.                                   │
-│                                               │
-│ ● Currently building full-stack apps,         │
-│   solving DSA problems, contributing to open  │
-│   source, and experimenting with AI/RAG.      │
-│                                               │
-│ ● Sometimes the code works on the first try.  │
-│   Usually it doesn't.                         │
-│                                               │
-└───────────────────────────────────────────────┘
-```
+I'm **Jyatin Kumar Singh**, a CSE student at **Lovely Professional University** who enjoys building practical software and understanding how things work under the hood.
 
-<br/>
+- 💻 Building **full-stack web applications** with JavaScript/TypeScript, React and Node.js
+- 🧠 Practising **DSA and problem solving**, with a focus on Java
+- 🤖 Exploring **AI, RAG and intelligent applications**
+- 🌱 Contributing to and learning from **open-source projects**
+- 🛠️ Interested in backend architecture, system design and developer tooling
+- 🚀 Currently turning ideas into projects instead of leaving them in the notes app
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:4A00E0,100:8E2DE2&height=3&width=100%" width="100%" />
+> **Build → Break → Debug → Learn → Repeat.**
 
-## 🚀 &nbsp;Featured Projects
+---
 
-<table bordercolor="#4A00E0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📄 AskPDF</h3>
-      <p>AI-powered PDF interaction application using retrieval-augmented generation.</p>
-      <code>TypeScript</code> <code>AI</code> <code>RAG</code>
-      <br/><br/>
-      <a href="https://github.com/Jyatin/AskPDF"><img src="https://img.shields.io/badge/View_Project-8E2DE2?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛒 KiranaWala</h3>
-      <p>Hyperlocal smart grocery platform with digital ordering, store management, and inventory management.</p>
-      <code>MERN Stack</code>
-      <br/><br/>
-      <a href="https://github.com/Jyatin/KiranaWala"><img src="https://img.shields.io/badge/View_Project-00C9FF?style=for-the-badge&logo=github&logoColor=black" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛠️ FixMyWay</h3>
-      <p>Full-stack project focused on building a practical digital solution for everyday users.</p>
-      <code>Full Stack</code>
-      <br/><br/>
-      <a href="https://github.com/Jyatin/-fixmyway"><img src="https://img.shields.io/badge/View_Project-8E2DE2?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔤 MyString</h3>
-      <p>Custom C++ String implementation focusing on OOP, dynamic memory management, and operator overloading.</p>
-      <code>C++</code> <code>OOP</code> <code>Memory Management</code>
-      <br/><br/>
-      <a href="https://github.com/Jyatin/MyString"><img src="https://img.shields.io/badge/View_Project-00C9FF?style=for-the-badge&logo=github&logoColor=black" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 OpenStory</h3>
-      <p>Open-source contribution to Storybook tooling: migrated the MSW setup to v3 and fixed Windows Vite path resolution.</p>
-      <code>TypeScript</code> <code>Storybook</code> <code>MSW</code>
-      <br/><br/>
-      <a href="https://github.com/openstory-so/openstory/pull/1307"><img src="https://img.shields.io/badge/Merged_PR_1307-00C9FF?style=for-the-badge&logo=github&logoColor=black" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌱 CropCycle</h3>
-      <p>Full-stack crop-cycle analysis platform that processes multi-temporal NDVI data and detects crop growth stages.</p>
-      <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>NDVI</code>
-      <br/><br/>
-      <a href="https://github.com/Jyatin/Extraction-of-Crop-Cycle-Parameters-from-Multi-Temporal-Data"><img src="https://img.shields.io/badge/View_Project-8E2DE2?style=for-the-badge&logo=github&logoColor=white" /></a>
-    </td>
-  </tr>
-</table>
+## 🚀 Featured Projects
 
-<br/>
+| Project | What it is | Stack |
+|---|---|---|
+| 📄 [**AskPDF**](https://github.com/Jyatin/AskPDF) | AI-powered PDF interaction application built around retrieval-augmented generation | TypeScript • AI • RAG |
+| 🛒 [**KiranaWala**](https://github.com/Jyatin/KiranaWala) | Hyperlocal grocery platform with ordering, store and inventory management | MERN |
+| 🛠️ [**FixMyWay**](https://github.com/Jyatin/-fixmyway) | Full-stack application focused on solving a practical everyday problem | Full Stack |
+| 🔤 [**MyString**](https://github.com/Jyatin/MyString) | Custom C++ String implementation exploring OOP, memory management and operator overloading | C++ • OOP |
+| 🌱 [**CropCycle**](https://github.com/Jyatin/Extraction-of-Crop-Cycle-Parameters-from-Multi-Temporal-Data) | Crop-cycle analysis platform using multi-temporal NDVI data | React • Node.js • Express • MongoDB |
+| 🌐 [**Portfolio v3**](https://github.com/Jyatin/portfolio-v3) | Personal portfolio and frontend showcase | Frontend |
 
-## 🛠️ &nbsp;Tech Stack
+---
+
+## 🌱 Open Source
+
+### OpenStory — Merged PR
+Migrated the Storybook MSW setup to v3 and fixed Windows Vite path resolution.
+
+[View PR #1307 →](https://github.com/openstory-so/openstory/pull/1307)
+
+### OpenFeature JS SDK
+Worked on a React fix related to default values for missing feature flags.
+
+[View PR #1451 →](https://github.com/open-feature/js-sdk/pull/1451)
+
+**Other repositories explored/contributed to:** `Lingui` • `freeCodeCamp` • `Appwrite` • `First Contributions`
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <h4>💻 Languages</h4>
-  <img src="https://skillicons.dev/icons?i=java,cpp,js,ts&theme=dark" />
-  <br/><br/>
-  <h4>⚛️ Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
-  <br/><br/>
-  <h4>⚙️ Backend & 🗄️ Databases</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
-  <br/><br/>
-  <h4>🛠️ Tools & 🤖 AI</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" />
+
+### Languages
+<img src="https://skillicons.dev/icons?i=java,cpp,js,ts&theme=dark" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
+
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" />
+
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=3&width=100%" width="100%" />
-
-## 🚧 &nbsp;Currently Building
+## 🚧 Currently Working On
 
 ```text
-🟣 Backend architecture
+🟣 Full-stack application development
 🔵 AI / RAG experiments
-🟢 Open source contributions
-🟡 DSA consistency
-🔴 System design
+🟢 Open-source contributions
+🟡 DSA + interview preparation
+🔴 Backend architecture + system design
 ```
 
-<br/>
+---
 
-## 🌱 &nbsp;Open Source
-
-<table>
-  <tr>
-    <td>🟢</td>
-    <td><b>OpenStory</b><br/><code>fix: migrate Storybook MSW setup to v3</code><br/><sub>✓ Merged · 3 files changed · 1 commit</sub></td>
-    <td><a href="https://github.com/openstory-so/openstory/pull/1307"><img src="https://img.shields.io/badge/View_Merged_PR_↗-181717?style=for-the-badge&logo=github" /></a></td>
-  </tr>
-  <tr>
-    <td>🟢</td>
-    <td><b>OpenFeature JS SDK</b><br/><code>fix(react): honor default value for missing feature flags</code></td>
-    <td><a href="https://github.com/open-feature/js-sdk/pull/1451"><img src="https://img.shields.io/badge/View_PR_↗-181717?style=for-the-badge&logo=github" /></a></td>
-  </tr>
-</table>
-
-**Other Contributions:** `Lingui` `freeCodeCamp` `First Contributions` `Appwrite`
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,50:4A00E0,100:8E2DE2&height=3&width=100%" width="100%" />
-
-## 📊 &nbsp;GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jyatin&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=00C9FF&icon_color=8E2DE2&text_color=C9D1D9" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Jyatin&theme=radical&hide_border=true&background=00000000&ring=8E2DE2&fire=00C9FF&currStreakLabel=00C9FF" width="48%" />
 
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyatin&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=00C9FF&text_color=C9D1D9" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Jyatin&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=00C9FF&icon_color=8E2DE2&text_color=C9D1D9" width="48%" />
+<img src="https://streak-stats.demolab.com?user=Jyatin&theme=radical&hide_border=true&background=00000000&ring=8E2DE2&fire=00C9FF&currStreakLabel=00C9FF" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyatin&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=00C9FF&text_color=C9D1D9" width="40%" />
+
 </div>
 
-<br/>
+---
 
-## 📈 &nbsp;Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyatin&theme=react-dark&bg_color=00000000&color=00C9FF&line=8E2DE2&point=FFFFFF&hide_border=true" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyatin&theme=react-dark&bg_color=00000000&color=00C9FF&line=8E2DE2&point=FFFFFF&hide_border=true" width="90%" />
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=3&width=100%" width="100%" />
-
-## 🐍 &nbsp;Contribution Activity
+## 🐍 Contribution Activity
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jyatin/Jyatin/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jyatin/Jyatin/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jyatin/Jyatin/output/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Jyatin/Jyatin/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=3&width=100%" width="100%" />
-
-## 💬 &nbsp;Let's Connect
+## 💬 Let's Connect
 
 <div align="center">
 
-*Building things, breaking things, learning along the way.*
+**Building things, solving problems, and learning along the way.**
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/Jyatin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00C9FF" /></a>
 <a href="https://www.linkedin.com/in/jyatin-singh-88984831b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/Jyatin_singh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 <a href="mailto:singhjyatin@gmail.com"><img src="https://img.shields.io/badge/Email-4A00E0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
