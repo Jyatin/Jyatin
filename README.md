@@ -136,6 +136,39 @@ Worked on a React fix related to default values for missing feature flags.
 
 ---
 
+## CONNECT TO THE MATRIX
+
+<div align="center">
+
+### JOIN THE DIGITAL REVOLUTION
+
+<a href="https://www.linkedin.com/in/jyatin-singh-88984831b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="50" alt="LinkedIn Professional Network" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Jyatin">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="50" alt="GitHub Profile" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/Jyatin_singh/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116" height="50" alt="LeetCode Profile" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:singhjyatin@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="50" alt="Direct Contact" />
+</a>
+
+</div>
+
+<!-- CYBERPUNK VISITOR COUNTER -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jyatin&style=for-the-badge&color=00f5ff&labelColor=000000" height="30"/>
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+</div>
+
+---
+
 ## 💬 Let's Connect
 
 <div align="center">
