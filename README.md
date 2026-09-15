@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=220&section=header&animation=fadeIn&fontAlign=50&fontAlignY=35" width="100%" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Hello%2C+I'm+Jyatin+%F0%9F%91%8B" alt="Hello, I'm Jyatin" />
+
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" alt="Animated developer visual" />
 
 # ⚡ Jyatin Kumar Singh
