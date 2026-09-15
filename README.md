@@ -101,20 +101,20 @@ Worked on a React fix related to default values for missing feature flags.
 
 ### JOIN THE DIGITAL REVOLUTION
 
-<a href="https://www.linkedin.com/in/jyatin-singh-88984831b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="50" /></a>
+<a href="https://www.linkedin.com/in/jyatin-singh-88984831b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="50" alt="LinkedIn Professional Network" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Jyatin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="50" /></a>
+<a href="https://github.com/Jyatin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="50" alt="GitHub Profile" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/u/Jyatin_singh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116" height="50" /></a>
+<a href="https://leetcode.com/u/Jyatin_singh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116" height="50" alt="LeetCode Profile" /></a>
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:singhjyatin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="50" /></a>
+<a href="mailto:singhjyatin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="50" alt="Direct Contact" /></a>
 
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Jyatin&style=for-the-badge&color=00f5ff&labelColor=000000" height="30"/>
-<br><br>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+  <img src="https://komarev.com/ghpvc/?username=Jyatin&style=for-the-badge&color=00f5ff&labelColor=000000" height="30"/>
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 </div>
 
 ---
@@ -122,20 +122,20 @@ Worked on a React fix related to default values for missing feature flags.
 ## 📊 GitHub Stats
 
 <div align="center">
-<a href="https://github.com/Jyatin"><img src="https://github-readme-stats.vercel.app/api?username=Jyatin&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=00000000&title_color=00C9FF&icon_color=8E2DE2&text_color=C9D1D9" height="190" /></a>
-<a href="https://github.com/Jyatin"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyatin&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=00000000&title_color=00C9FF&text_color=C9D1D9" height="190" /></a>
+<a href="https://github.com/Jyatin"><img src="https://github-readme-stats.vercel.app/api?username=Jyatin&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=00000000&title_color=00C9FF&icon_color=8E2DE2&text_color=C9D1D9" height="190" alt="Jyatin GitHub Stats" /></a>
+<a href="https://github.com/Jyatin"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyatin&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=00000000&title_color=00C9FF&text_color=C9D1D9" height="190" alt="Jyatin Most Used Languages" /></a>
 <br/><br/>
-<img src="https://streak-stats.demolab.com?user=Jyatin&theme=radical&hide_border=true&background=00000000&ring=8E2DE2&fire=00C9FF&currStreakLabel=00C9FF" width="70%" />
+<img src="https://streak-stats.demolab.com?user=Jyatin&theme=radical&hide_border=true&background=00000000&ring=8E2DE2&fire=00C9FF&currStreakLabel=00C9FF" width="70%" alt="Jyatin GitHub Streak" />
 </div>
 
 ---
 
-## 📈 GitHub Contribution Activity — Active Period
+## 📈 GitHub Contribution Activity
 
 <div align="center">
-<a href="https://github.com/Jyatin"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyatin&from=2026-01-01&to=2026-09-16&theme=react-dark&bg_color=0D1117&color=00C9FF&line=8E2DE2&point=FFFFFF&area=true&hide_border=true&custom_title=Jyatin%27s%20Active%20GitHub%20Period" width="95%" /></a>
+<a href="https://github.com/Jyatin"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyatin&theme=react-dark&bg_color=0D1117&color=00C9FF&line=8E2DE2&point=FFFFFF&area=true&hide_border=true&from=2026-01-01&to=2026-09-16" width="95%" alt="Jyatin GitHub Contribution Activity" /></a>
 <br/><br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jyatin&theme=github_dark" width="95%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jyatin&theme=github_dark" width="95%" alt="Jyatin GitHub Profile Summary" />
 </div>
 
 ---
