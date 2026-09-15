@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=220&section=header&animation=fadeIn&fontAlign=50&fontAlignY=35" width="100%" />
 
-<img src="https://github.com/Jyatin.png" width="150" alt="Jyatin Kumar Singh" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" alt="Animated developer visual" />
 
 # ⚡ Jyatin Kumar Singh
 
@@ -29,7 +29,7 @@
 
 I'm **Jyatin Kumar Singh**, a CSE student at **Lovely Professional University** who enjoys building practical software and understanding how things work under the hood.
 
-- 💻 Building **full-stack web applications** with JavaScript/TypeScript, React, Next.js and Node.js
+- 💻 Building **full-stack web applications** with JavaScript/TypeScript, React and Node.js
 - 🧠 Practising **DSA and problem solving**, with a focus on Java
 - 🤖 Exploring **AI, RAG and intelligent applications**
 - 🌱 Contributing to and learning from **open-source projects**
@@ -49,7 +49,7 @@ I'm **Jyatin Kumar Singh**, a CSE student at **Lovely Professional University** 
 | 🛠️ [**FixMyWay**](https://github.com/Jyatin/-fixmyway) | Full-stack application focused on solving a practical everyday problem | Full Stack |
 | 🔤 [**MyString**](https://github.com/Jyatin/MyString) | Custom C++ String implementation exploring OOP, memory management and operator overloading | C++ • OOP |
 | 🌱 [**CropCycle**](https://github.com/Jyatin/Extraction-of-Crop-Cycle-Parameters-from-Multi-Temporal-Data) | Crop-cycle analysis platform using multi-temporal NDVI data | React • Node.js • Express • MongoDB |
-| 🌐 [**Portfolio v3**](https://github.com/Jyatin/portfolio-v3) | Personal portfolio and frontend showcase | Frontend • Next.js |
+| 🌐 [**Portfolio v3**](https://github.com/Jyatin/portfolio-v3) | Personal portfolio and frontend showcase | Frontend |
 
 ---
 
