@@ -91,9 +91,7 @@ Worked on a React fix related to default values for missing feature flags.
 
 ## 🚧 Currently Working On
 
-```text
-🟣 Full-stack application development
-```
+🟣 **Full-stack application development**
 
 ## CONNECT TO THE MATRIX
 
@@ -125,6 +123,11 @@ Worked on a React fix related to default values for missing feature flags.
   <br><br>
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 </div>
+
+🧠 **DSA + interview preparation**  
+🤖 **AI / RAG experiments**  
+🟢 **Open-source contributions**  
+🔴 **Backend architecture + system design**
 
 ---
 
