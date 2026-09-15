@@ -91,7 +91,9 @@ Worked on a React fix related to default values for missing feature flags.
 
 ## 🚧 Currently Working On
 
-🟣 **Full-stack application development**
+```text
+🟣 Full-stack application development
+```
 
 ## CONNECT TO THE MATRIX
 
@@ -124,32 +126,39 @@ Worked on a React fix related to default values for missing feature flags.
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
 </div>
 
-🧠 **DSA + interview preparation**  
-🤖 **AI / RAG experiments**  
-🟢 **Open-source contributions**  
-🔴 **Backend architecture + system design**
-
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jyatin&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=00C9FF&icon_color=8E2DE2&text_color=C9D1D9" width="48%" />
-<img src="https://streak-stats.demolab.com?user=Jyatin&theme=radical&hide_border=true&background=00000000&ring=8E2DE2&fire=00C9FF&currStreakLabel=00C9FF" width="48%" />
+<a href="https://github.com/Jyatin">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jyatin&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=00000000&title_color=00C9FF&icon_color=8E2DE2&text_color=C9D1D9" height="190" alt="Jyatin GitHub Stats" />
+</a>
+<a href="https://github.com/Jyatin">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyatin&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=00000000&title_color=00C9FF&text_color=C9D1D9" height="190" alt="Jyatin Most Used Languages" />
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyatin&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=00C9FF&text_color=C9D1D9" width="40%" />
+<img src="https://streak-stats.demolab.com?user=Jyatin&theme=radical&hide_border=true&background=00000000&ring=8E2DE2&fire=00C9FF&currStreakLabel=00C9FF" width="70%" alt="Jyatin GitHub Streak" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 GitHub Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyatin&theme=react-dark&bg_color=00000000&color=00C9FF&line=8E2DE2&point=FFFFFF&hide_border=true" width="90%" />
+
+<a href="https://github.com/Jyatin">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyatin&theme=react-dark&bg_color=0D1117&color=00C9FF&line=8E2DE2&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Jyatin GitHub Contribution Activity" />
+</a>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jyatin&theme=github_dark" width="95%" alt="Jyatin GitHub Profile Summary" />
+
 </div>
 
 ---
