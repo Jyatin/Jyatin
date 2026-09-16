@@ -145,17 +145,6 @@ Worked on a React fix related to default values for missing feature flags.
 
 ---
 
-## 👾 GitHub Contribution Invaders
-
-<div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jyatin/Jyatin/output/git-invader-green-dark.svg">
-<img alt="GitHub contribution Space Invaders animation" src="https://raw.githubusercontent.com/Jyatin/Jyatin/output/git-invader-green-dark.svg" width="95%">
-</picture>
-</div>
-
----
-
 ## 💬 Let's Connect
 
 <div align="center">
