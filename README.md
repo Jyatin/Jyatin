@@ -142,7 +142,7 @@ Worked on a React fix related to default values for missing feature flags.
 <div align="center">
   <img src="https://count.getloli.com/@:xevrion?theme=rule34" width="90%" alt="Pixel art girls animation" />
   <br/><br/>
-  <img src="github-space-shooter.gif" width="95%" alt="GitHub contribution space shooter animation" />
+  <img src="https://raw.githubusercontent.com/Jyatin/Jyatin/pacman-output/galaga-contribution-graph.svg?v=20260917" width="95%" alt="GitHub Galaga contribution animation" />
 </div>
 
 ---
