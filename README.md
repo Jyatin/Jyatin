@@ -14,11 +14,9 @@ _\///________\///__\///////////////__\///////////////__\///////////////_______\/
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" alt="Animated developer visual" />
 
-# ⚡ Jyatin Kumar Singh
+<br/>
 
-### Full-Stack Developer • DSA Problem Solver • AI/RAG Explorer • Open Source Contributor
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00C9FF&center=true&vCenter=true&width=760&lines=Building+full-stack+applications;Solving+DSA+problems+consistently;Exploring+AI%2FRAG+systems;Contributing+to+open+source;Turning+ideas+into+working+software" alt="Typing SVG" />
+<img src="https://github.com/xevrion/xevrion/raw/refs/heads/main/assets/megumin.gif" width="90%" alt="Pixel art girls animation" />
 
 </div>
 
