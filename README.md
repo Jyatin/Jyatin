@@ -14,10 +14,6 @@ _\///________\///__\///////////////__\///////////////__\///////////////_______\/
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" alt="Animated developer visual" />
 
-<br/>
-
-<img src="https://count.getloli.com/@:xevrion?theme=rule34" width="90%" alt="Pixel art girls animation" />
-
 </div>
 
 ---
@@ -139,6 +135,12 @@ Worked on a React fix related to default values for missing feature flags.
 <a href="https://github.com/Jyatin"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyatin&theme=react-dark&bg_color=0D1117&color=00C9FF&line=8E2DE2&point=FFFFFF&area=true&hide_border=true&from=2026-01-01&to=2026-09-16" width="95%" alt="Jyatin GitHub Contribution Activity" /></a>
 <br/><br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jyatin&theme=github_dark" width="95%" alt="Jyatin GitHub Profile Summary" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://count.getloli.com/@:xevrion?theme=rule34" width="90%" alt="Pixel art girls animation" />
 </div>
 
 ---
