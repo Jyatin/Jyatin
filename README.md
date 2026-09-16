@@ -54,6 +54,12 @@ I'm **Jyatin Kumar Singh**, a CSE student at **Lovely Professional University** 
 
 ## 🌱 Open Source
 
+### 📌 Featured Contribution — OpenStory
+
+**[Use location context in Enhance, character and voice prompts](https://github.com/openstory-so/openstory/pull/1656)** — **Merged**
+
+Improved OpenStory's character, voice and Enhance prompts by using script setting and dialogue language to infer plausible regional context, while keeping explicit backgrounds, accents and languages authoritative. The contribution also propagates request-country context through the workflow and API, with safeguards keeping nationality, ethnicity and spoken language distinct.
+
 ### OpenStory — Merged PR
 Migrated the Storybook MSW setup to v3 and fixed Windows Vite path resolution.
 
