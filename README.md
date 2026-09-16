@@ -145,13 +145,12 @@ Worked on a React fix related to default values for missing feature flags.
 
 ---
 
-## 🐍 Contribution Activity
+## 👾 GitHub Contribution Invaders
 
 <div align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jyatin/Jyatin/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jyatin/Jyatin/output/github-contribution-grid-snake.svg">
-<img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Jyatin/Jyatin/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jyatin/Jyatin/output/git-invader-green-dark.svg">
+<img alt="GitHub contribution Space Invaders animation" src="https://raw.githubusercontent.com/Jyatin/Jyatin/output/git-invader-green-dark.svg" width="95%">
 </picture>
 </div>
 
