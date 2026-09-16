@@ -140,7 +140,7 @@ Worked on a React fix related to default values for missing feature flags.
 <br/>
 
 <div align="center">
-<img src="https://count.getloli.com/@:xevrion?theme=rule34" width="90%" alt="Pixel art girls animation" />
+  <img src="github-space-shooter.gif" width="95%" alt="GitHub contribution space shooter animation" />
 </div>
 
 ---
