@@ -16,7 +16,7 @@ _\///________\///__\///////////////__\///////////////__\///////////////_______\/
 
 <br/>
 
-<img src="https://github.com/xevrion/xevrion/raw/refs/heads/main/assets/megumin.gif" width="90%" alt="Pixel art girls animation" />
+<img src="https://count.getloli.com/@:xevrion?theme=rule34" width="90%" alt="Pixel art girls animation" />
 
 </div>
 
