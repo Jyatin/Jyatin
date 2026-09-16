@@ -20,17 +20,6 @@ _\///________\///__\///////////////__\///////////////__\///////////////_______\/
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00C9FF&center=true&vCenter=true&width=760&lines=Building+full-stack+applications;Solving+DSA+problems+consistently;Exploring+AI%2FRAG+systems;Contributing+to+open+source;Turning+ideas+into+working+software" alt="Typing SVG" />
 
-<br/>
-
-<a href="https://github.com/Jyatin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00C9FF" /></a>
-<a href="https://www.linkedin.com/in/jyatin-singh-88984831b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/Jyatin_singh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="mailto:singhjyatin@gmail.com"><img src="https://img.shields.io/badge/Email-4A00E0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Jyatin&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS" />
-
 </div>
 
 ---
