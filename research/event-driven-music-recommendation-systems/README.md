@@ -5,22 +5,13 @@
 **Author:** Jyatin Kumar Singh  
 **Institution:** Lovely Professional University  
 **Year:** 2026  
-**Type:** Technical Research Case Study
+**Type:** Technical Case Study / Research Paper
 
 ## Overview
 
 This paper presents a reference architecture for scalable, fresh, and low-latency music recommendation using an event-driven design centred on **Apache Kafka**, distributed processing, and machine-learned ranking.
 
-The proposed architecture separates:
-
-- Event ingestion and durable event streaming
-- Real-time stream processing
-- Offline batch processing and model training
-- Candidate generation
-- Ranking and re-ranking
-- Recommendation serving
-
-The design explores how streaming and offline pipelines can share a durable event log while supporting relevance, freshness, diversity, reliability, and latency requirements.
+The architecture separates event ingestion, real-time stream processing, offline batch processing, candidate generation, ranking, re-ranking, and recommendation serving.
 
 ## Key Technologies & Concepts
 
@@ -31,29 +22,26 @@ The design explores how streaming and offline pipelines can share a durable even
 - Collaborative filtering
 - Embedding-based candidate retrieval
 - Learning-to-rank
-- Recommendation systems
 - Real-time personalization
-- Offline evaluation with ranking metrics such as NDCG@K
-
-## Important Scope Note
-
-This is a **technical case study and reference-architecture proposal**, not a report of a completed production implementation. Spotify is used as a motivating public example; the proposed architecture does **not** claim to reproduce Spotify's proprietary internal systems. The paper's proof-of-concept uses synthetic interaction data rather than real production listening logs.
+- Offline evaluation and ranking metrics
 
 ## Paper
 
-**Full paper:** `Event-Driven Music Recommendation Systems - IEEE Format.pdf`
-
-> The PDF should be uploaded to this same directory so it can be opened directly from GitHub.
+📄 **[Read / Download the Full Technical Paper (PDF)](./Event-Driven%20Music%20Recommendation%20Systems%20-%20IEEE%20Format.pdf)**
 
 ## Interactive Case Study
 
-[View the interactive case study](https://lnkd.in/d6j6HcFR)
+🔗 **[View the Interactive Case Study](https://lnkd.in/d6j6HcFR)**
 
 ## Research Focus
 
-The paper investigates how continuous user-interaction events such as plays, skips, saves, searches, and completions can be transformed into personalized recommendations while maintaining scalability and low latency.
+The paper examines how continuous listener events such as plays, skips, saves, searches, playlist interactions, and completions can feed personalized recommendation pipelines while maintaining scalability and low latency.
 
-It also discusses candidate generation, ranking, re-ranking, system reliability, scalability trade-offs, evaluation methodology, and exposure-bias considerations.
+It covers candidate generation, ranking, re-ranking, online and offline pipelines, reliability, scalability, evaluation methodology, and exposure-bias considerations.
+
+## Scope
+
+This work is a **technical reference-architecture case study**, not a claim of reproducing Spotify's proprietary internal architecture. The proof-of-concept uses synthetic interaction data, and the proposed architecture is presented as a design for subsequent implementation and evaluation rather than as a production benchmark.
 
 ## Citation
 
