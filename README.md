@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=220&section=header&animation=fadeIn&fontAlign=50&fontAlignY=35" width="100%" />
 
-<pre>__/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/\\\\\______
+<pre>__/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/\\\\\\______
 _\/\\\_______\/\\\_\/\\\///////////__\/\\\_____________\/\\\_________________/\\\///\\\____
 _\/\\\_______\/\\\_\/\\\_____________\/\\\_____________\/\\\_______________/\\\/__\///\\\__
 _\/\\\\\\\\\\\\\\\_\/\\\\\\\\\\\_____\/\\\_____________\/\\\______________/\\\______\//\\\_
@@ -55,7 +55,10 @@ I like contributing to real codebases, fixing actual issues, and learning how pr
 | Project | Contribution | PR |
 |---|---|---|
 | **OpenStory** | Migrated Storybook MSW setup from v2 → v3 and fixed Windows Vite path resolution | [#1307](https://github.com/openstory-so/openstory/pull/1307) |
-| **OpenStory** | Improved location context handling across Enhance, character and voice prompts | [#1656](https://github.com/openstory-so/openstory/pull/1656) |
+| **Shep AI** | Redesigned fleet status bar placement in the Control Center and added fleet interaction coverage | [#891](https://github.com/shep-ai/shep/pull/891) |
+| **Speech Dispatcher** | Added an Edge TTS generic output module with multilingual voice support | [#1110](https://github.com/brailcom/speechd/pull/1110) |
+| **First Contributions** | Added myself to the contributors list | [#122466](https://github.com/firstcontributions/first-contributions/pull/122466) |
+| **First Contributions** | Added myself to the contributors list | [#122467](https://github.com/firstcontributions/first-contributions/pull/122467) |
 
 ### 🧩 Currently Contributing
 
@@ -155,7 +158,7 @@ I like contributing to real codebases, fixing actual issues, and learning how pr
 **Building things, solving problems, and learning along the way.**
 <br/><br/>
 <a href="https://github.com/Jyatin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00C9FF" /></a>
-<a href="https://www.linkedin.com/in/jyatin-singh-88984831b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jyatin-singh-88984831/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/u/Jyatin_singh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 <a href="mailto:singhjyatin@gmail.com"><img src="https://img.shields.io/badge/Email-4A00E0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <br/><br/>
