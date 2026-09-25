@@ -48,23 +48,25 @@ I'm **Jyatin Kumar Singh**, a CSE student at **Lovely Professional University** 
 
 ## 🌱 Open Source
 
-### 📌 Featured Contribution — OpenStory
+I like contributing to real codebases, fixing actual issues, and learning how production projects work beyond my own projects.
 
-**[Use location context in Enhance, character and voice prompts](https://github.com/openstory-so/openstory/pull/1656)** — **Merged**
+### 🔥 Merged Contributions
 
-Improved OpenStory's character, voice and Enhance prompts by using script setting and dialogue language to infer plausible regional context, while keeping explicit backgrounds, accents and languages authoritative. The contribution also propagates request-country context through the workflow and API, with safeguards keeping nationality, ethnicity and spoken language distinct.
+| Project | Contribution | PR |
+|---|---|---|
+| **OpenStory** | Migrated Storybook MSW setup from v2 → v3 and fixed Windows Vite path resolution | [#1307](https://github.com/openstory-so/openstory/pull/1307) |
+| **OpenStory** | Improved location context handling across Enhance, character and voice prompts | [#1656](https://github.com/openstory-so/openstory/pull/1656) |
 
-### OpenStory — Merged PR
-Migrated the Storybook MSW setup to v3 and fixed Windows Vite path resolution.
+### 🧩 Currently Contributing
 
-[View PR #1307 →](https://github.com/openstory-so/openstory/pull/1307)
+**OpenFeature JavaScript SDK**
 
-### OpenFeature JS SDK
-Worked on a React fix related to default values for missing feature flags.
+- React fix for handling default values when feature flags are missing — [PR #1451](https://github.com/open-feature/js-sdk/pull/1451)
+- Updated outdated OpenFeature specification requirement references — [PR #1454](https://github.com/open-feature/js-sdk/pull/1454)
 
-[View PR #1451 →](https://github.com/open-feature/js-sdk/pull/1451)
+> **Open source isn't just about having PRs on a profile — it's about getting comfortable reading unfamiliar code, understanding the architecture, making targeted changes, and working with maintainers.**
 
-**Other repositories explored/contributed to:** `Lingui` • `freeCodeCamp` • `Appwrite` • `First Contributions`
+**More contributions → [GitHub](https://github.com/Jyatin)**
 
 ---
 
@@ -100,7 +102,7 @@ Worked on a React fix related to default values for missing feature flags.
 
 ### JOIN THE DIGITAL REVOLUTION
 
-<a href="https://www.linkedin.com/in/jyatin-singh-88984831b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="50" alt="LinkedIn Professional Network" /></a>
+<a href="https://www.linkedin.com/in/jyatin-singh-88984831/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="50" alt="LinkedIn Professional Network" /></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Jyatin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="50" alt="GitHub Profile" /></a>
 &nbsp;&nbsp;&nbsp;
