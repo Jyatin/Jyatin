@@ -50,15 +50,13 @@ I'm **Jyatin Kumar Singh**, a CSE student at **Lovely Professional University** 
 
 I like contributing to real codebases, fixing actual issues, and learning how production projects work beyond my own projects.
 
-### 🔥 Merged Contributions
+### 🔥 Meaningful External Contributions
 
 | Project | Contribution | PR |
 |---|---|---|
 | **OpenStory** | Migrated Storybook MSW setup from v2 → v3 and fixed Windows Vite path resolution | [#1307](https://github.com/openstory-so/openstory/pull/1307) |
 | **Shep AI** | Redesigned fleet status bar placement in the Control Center and added fleet interaction coverage | [#891](https://github.com/shep-ai/shep/pull/891) |
 | **Speech Dispatcher** | Added an Edge TTS generic output module with multilingual voice support | [#1110](https://github.com/brailcom/speechd/pull/1110) |
-| **First Contributions** | Added myself to the contributors list | [#122466](https://github.com/firstcontributions/first-contributions/pull/122466) |
-| **First Contributions** | Added myself to the contributors list | [#122467](https://github.com/firstcontributions/first-contributions/pull/122467) |
 
 ### 🧩 Currently Contributing
 
@@ -66,6 +64,10 @@ I like contributing to real codebases, fixing actual issues, and learning how pr
 
 - React fix for handling default values when feature flags are missing — [PR #1451](https://github.com/open-feature/js-sdk/pull/1451)
 - Updated outdated OpenFeature specification requirement references — [PR #1454](https://github.com/open-feature/js-sdk/pull/1454)
+
+### 🌱 Beginner Open-Source Contributions
+
+- **First Contributions** — [#122466](https://github.com/firstcontributions/first-contributions/pull/122466) · [#122467](https://github.com/firstcontributions/first-contributions/pull/122467)
 
 > **Open source isn't just about having PRs on a profile — it's about getting comfortable reading unfamiliar code, understanding the architecture, making targeted changes, and working with maintainers.**
 
