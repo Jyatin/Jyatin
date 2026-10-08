@@ -48,28 +48,43 @@ I'm **Jyatin Kumar Singh**, a CSE student at **Lovely Professional University** 
 
 ## 🌱 Open Source
 
-I like contributing to real codebases, fixing actual issues, and learning how production projects work beyond my own projects.
+I contribute to real-world codebases across **frontend, backend, developer tooling, AI, accessibility, and documentation** — from focused bug fixes to feature work and workflow improvements.
 
-### 🔥 Meaningful External Contributions
+### ✅ Merged PRs
 
 | Project | Contribution | PR |
 |---|---|---|
+| **OpenStory** | Improved workflow failure messages by removing internal child-workflow wrappers and surfacing useful failure reasons | [#2016](https://github.com/openstory-so/openstory/pull/2016) |
+| **OpenStory** | Rebranded the Bedroom Confessional style with updated style briefs and composer variants | [#2021](https://github.com/openstory-so/openstory/pull/2021) |
 | **OpenStory** | Migrated Storybook MSW setup from v2 → v3 and fixed Windows Vite path resolution | [#1307](https://github.com/openstory-so/openstory/pull/1307) |
-| **Shep AI** | Redesigned fleet status bar placement in the Control Center and added fleet interaction coverage | [#891](https://github.com/shep-ai/shep/pull/891) |
+| **Shep AI** | Redesigned fleet status bar placement in the Control Center with interaction coverage | [#891](https://github.com/shep-ai/shep/pull/891) |
 | **Speech Dispatcher** | Added an Edge TTS generic output module with multilingual voice support | [#1110](https://github.com/brailcom/speechd/pull/1110) |
+| **First Contributions** | Added my contributor entry to the project contributors list | [#122466](https://github.com/firstcontributions/first-contributions/pull/122466) · [#122467](https://github.com/firstcontributions/first-contributions/pull/122467) |
 
-### 🧩 Currently Contributing
+### 🔄 Open / Under Review
 
-**OpenFeature JavaScript SDK**
+| Project | Contribution | PR |
+|---|---|---|
+| **OpenStory** | Adds sequence-location → library support with authorization, React Query invalidation, and test coverage | [#2019](https://github.com/openstory-so/openstory/pull/2019) |
+| **OpenStory** | Refreshes video variants while generation is active to prevent stale model badges | [#2025](https://github.com/openstory-so/openstory/pull/2025) |
+| **Infisical** | Redacts GitLab credentials from secret-scanning errors and validates configured GitLab hosts | [#8471](https://github.com/Infisical/infisical/pull/8471) |
+| **TanStack Router** | Clarifies `<Outlet />` usage in nested layout routes | [#8478](https://github.com/TanStack/router/pull/8478) |
+| **OpenFeature JavaScript SDK** | Fixes React handling of default values when feature flags are missing | [#1451](https://github.com/open-feature/js-sdk/pull/1451) |
+| **OpenFeature JavaScript SDK** | Updates outdated OpenFeature specification requirement references | [#1454](https://github.com/open-feature/js-sdk/pull/1454) |
+| **Open Design** | Resets the Home composer when opening a new tab | [#7304](https://github.com/nexu-io/open-design/pull/7304) |
 
-- React fix for handling default values when feature flags are missing — [PR #1451](https://github.com/open-feature/js-sdk/pull/1451)
-- Updated outdated OpenFeature specification requirement references — [PR #1454](https://github.com/open-feature/js-sdk/pull/1454)
+### 🧪 Closed / Not Merged
 
-### 🌱 Beginner Open-Source Contributions
+| Project | Contribution | PR |
+|---|---|---|
+| **OpenStory** | Added low-balance credit prompts and clearer $0-credit UX | [#1356](https://github.com/openstory-so/openstory/pull/1356) |
+| **OpenStory** | Migrated Storybook MSW addon configuration from v2 → v3 | [#1327](https://github.com/openstory-so/openstory/pull/1327) |
+| **Lingui** | Clarified `jsxPlaceholderDefaults` collision behavior in documentation | [#2650](https://github.com/lingui/js-lingui/pull/2650) |
+| **freeCodeCamp** | Fixed a rounding edge case in a JavaScript/Python curriculum challenge | [#69285](https://github.com/freeCodeCamp/freeCodeCamp/pull/69285) |
 
-- **First Contributions** — [#122466](https://github.com/firstcontributions/first-contributions/pull/122466) · [#122467](https://github.com/firstcontributions/first-contributions/pull/122467)
+> **Open source isn't just about having PRs on a profile — it's about reading unfamiliar code, understanding architecture, making targeted changes, writing tests, and working with maintainers.**
 
-> **Open source isn't just about having PRs on a profile — it's about getting comfortable reading unfamiliar code, understanding the architecture, making targeted changes, and working with maintainers.**
+**Open-source activity:** **7 merged · 7 open · 4 closed without merge**
 
 **More contributions → [GitHub](https://github.com/Jyatin)**
 
