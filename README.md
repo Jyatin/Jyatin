@@ -73,18 +73,10 @@ I contribute to real-world codebases across **frontend, backend, developer tooli
 | **OpenFeature JavaScript SDK** | Updates outdated OpenFeature specification requirement references | [#1454](https://github.com/open-feature/js-sdk/pull/1454) |
 | **Open Design** | Resets the Home composer when opening a new tab | [#7304](https://github.com/nexu-io/open-design/pull/7304) |
 
-### 🧪 Closed / Not Merged
-
-| Project | Contribution | PR |
-|---|---|---|
-| **OpenStory** | Added low-balance credit prompts and clearer $0-credit UX | [#1356](https://github.com/openstory-so/openstory/pull/1356) |
-| **OpenStory** | Migrated Storybook MSW addon configuration from v2 → v3 | [#1327](https://github.com/openstory-so/openstory/pull/1327) |
-| **Lingui** | Clarified `jsxPlaceholderDefaults` collision behavior in documentation | [#2650](https://github.com/lingui/js-lingui/pull/2650) |
-| **freeCodeCamp** | Fixed a rounding edge case in a JavaScript/Python curriculum challenge | [#69285](https://github.com/freeCodeCamp/freeCodeCamp/pull/69285) |
 
 > **Open source isn't just about having PRs on a profile — it's about reading unfamiliar code, understanding architecture, making targeted changes, writing tests, and working with maintainers.**
 
-**Open-source activity:** **7 merged · 7 open · 4 closed without merge**
+**Open-source activity:** **7 merged · 7 open**
 
 **More contributions → [GitHub](https://github.com/Jyatin)**
 
