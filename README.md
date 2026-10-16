@@ -55,6 +55,7 @@ I contribute to real-world codebases across **frontend, backend, developer tooli
 | Project | Contribution | PR |
 |---|---|---|
 | **OpenStory** | Improved workflow failure messages by removing internal child-workflow wrappers and surfacing useful failure reasons | [#2016](https://github.com/openstory-so/openstory/pull/2016) |
+| **OpenStory** | Added sequence-location → library support with authorization, React Query invalidation, and test coverage | [#2019](https://github.com/openstory-so/openstory/pull/2019) |
 | **OpenStory** | Rebranded the Bedroom Confessional style with updated style briefs and composer variants | [#2021](https://github.com/openstory-so/openstory/pull/2021) |
 | **OpenStory** | Migrated Storybook MSW setup from v2 → v3 and fixed Windows Vite path resolution | [#1307](https://github.com/openstory-so/openstory/pull/1307) |
 | **Shep AI** | Redesigned fleet status bar placement in the Control Center with interaction coverage | [#891](https://github.com/shep-ai/shep/pull/891) |
@@ -76,7 +77,7 @@ I contribute to real-world codebases across **frontend, backend, developer tooli
 
 > **Open source isn't just about having PRs on a profile — it's about reading unfamiliar code, understanding architecture, making targeted changes, writing tests, and working with maintainers.**
 
-**Open-source activity:** **7 merged · 7 open**
+**Open-source activity:** **8 merged · 6 open**
 
 **More contributions → [GitHub](https://github.com/Jyatin)**
 
