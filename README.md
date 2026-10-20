@@ -39,41 +39,15 @@ I'm **Jyatin Kumar Singh**, a CSE student at **Lovely Professional University** 
 |---|---|---|
 | 📄 [**AskPDF**](https://github.com/Jyatin/AskPDF) | AI-powered PDF interaction application built around retrieval-augmented generation | TypeScript • AI • RAG |
 | 🛒 [**KiranaWala**](https://github.com/Jyatin/KiranaWala) | Hyperlocal grocery platform with ordering, store and inventory management | MERN |
+| 🛡️ [**VoxShield**](https://github.com/Jyatin/VoiceGuard) | AI-powered voice deepfake detection using audio analysis and model confidence | React • TypeScript • FastAPI • Python |
+| 💧 [**JalDrishti 2030**](https://github.com/Jyatin/Repository-name-JalDrishti-2030) | IoT–AI digital-twin research prototype for predictive urban water-stress and intervention planning in Bengaluru ([Live demo](https://repository-name-jal-drishti-2030-9o.vercel.app)) | Next.js • TypeScript • FastAPI |
+| 📍 [**FixMyWay**](https://github.com/Jyatin/-fixmyway) | Mobile civic-issue reporting with GPS, AI-assisted image analysis, duplicate detection, and issue tracking | React Native • Expo • Firebase • Gemini Vision |
 | 🔤 [**MyString**](https://github.com/Jyatin/MyString) | Custom C++ String implementation exploring OOP, memory management and operator overloading | C++ • OOP |
 | 🌱 [**CropCycle**](https://github.com/Jyatin/Extraction-of-Crop-Cycle-Parameters-from-Multi-Temporal-Data) | Crop-cycle analysis platform using multi-temporal NDVI data | React • Node.js • Express • MongoDB |
 | 🌐 [**Portfolio v3**](https://github.com/Jyatin/portfolio-v3) | Personal portfolio and frontend showcase | Frontend |
 
 
 ---
-
-## 🧩 Other Projects
-
-Alongside KiranaWala, I build projects across AI security, civic technology, and smart-city research.
-
-### 🛡️ [VoxShield — AI-Powered Voice Deepfake Detection](https://github.com/Jyatin/VoiceGuard)
-
-An audio-security prototype that analyzes live microphone input and uploaded recordings to estimate whether speech is authentic or synthetic, with supporting acoustic visualizations and model confidence.
-
-- **Focus:** Voice deepfake detection, audio forensics, real-time inference.
-- **Technology:** React, TypeScript, FastAPI, Python, and an E4 raw-waveform CNN.
-- **Explore:** [Source code](https://github.com/Jyatin/VoiceGuard)
-
-### 💧 [JalDrishti 2030 — Predictive Urban Water-Stress Planning](https://github.com/Jyatin/Repository-name-JalDrishti-2030)
-
-A research-driven IoT–AI digital-twin prototype exploring how data provenance, water-stress analysis, representative hydraulic scenarios, and intervention optimisation can support neighbourhood-scale water planning in Bengaluru. It is a decision-support research prototype, not a live water-control system or a calibrated city-wide hydraulic model.
-
-- **Focus:** Smart-city research, water-stress analysis, data provenance, and intervention planning.
-- **Technology:** Next.js, TypeScript, Tailwind CSS, and FastAPI.
-- **Explore:** [Live demo](https://repository-name-jal-drishti-2030-9o.vercel.app) · [Source code](https://github.com/Jyatin/Repository-name-JalDrishti-2030)
-
-### 📍 [FixMyWay — AI-Assisted Civic Issue Reporting](https://github.com/Jyatin/-fixmyway)
-
-A mobile app for reporting and tracking civic problems such as potholes, damaged roads, waste, and broken streetlights. It combines AI-assisted image analysis, GPS-based reporting, nearby-issue duplicate detection, community verification, and issue tracking.
-
-- **Focus:** Civic-tech mobile development, geospatial workflows, and AI-assisted reporting.
-- **Technology:** React Native, Expo, TypeScript, Firebase, and Google Gemini Vision.
-- **Explore:** [Source code](https://github.com/Jyatin/-fixmyway)
-
 
 ---
 
