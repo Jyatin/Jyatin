@@ -37,14 +37,14 @@ I'm **Jyatin Kumar Singh**, a CSE student at **Lovely Professional University** 
 
 | Project | What it is | Stack | Live Demo |
 |---|---|---|---|
-| 📄 [**AskPDF**](https://github.com/Jyatin/AskPDF) | AI-powered PDF interaction application built around retrieval-augmented generation | TypeScript • AI • RAG | [Open app](https://ask-pdf-vert.vercel.app/) |
-| 🛒 [**KiranaWala**](https://github.com/Jyatin/KiranaWala) | Hyperlocal grocery platform with ordering, store and inventory management | MERN | [Open app](https://kirana-wala-1nhp.vercel.app) |
-| 🛡️ [**VoxShield**](https://github.com/Jyatin/VoiceGuard) | AI-powered voice deepfake detection using audio analysis and model confidence | React • TypeScript • FastAPI • Python | [Open app](https://voiceguard-seven.vercel.app) |
-| 💧 [**JalDrishti 2030**](https://github.com/Jyatin/Repository-name-JalDrishti-2030) | IoT–AI digital-twin research prototype for predictive urban water-stress and intervention planning in Bengaluru | Next.js • TypeScript • FastAPI | [Open demo](https://repository-name-jal-drishti-2030-9o.vercel.app) |
-| 📍 [**FixMyWay**](https://github.com/Jyatin/-fixmyway) | Mobile civic-issue reporting with GPS, AI-assisted image analysis, duplicate detection, and issue tracking | React Native • Expo • Firebase • Gemini Vision | [Watch demo video](https://raw.githubusercontent.com/Jyatin/-fixmyway/main/FixMyWay_LinkedIn_Showcase.mp4) |
-| 🔤 [**MyString**](https://github.com/Jyatin/MyString) | Custom C++ String implementation exploring OOP, memory management and operator overloading | C++ • OOP | — |
-| 🌱 [**CropCycle**](https://github.com/Jyatin/Extraction-of-Crop-Cycle-Parameters-from-Multi-Temporal-Data) | Crop-cycle analysis platform using multi-temporal NDVI data | React • Node.js • Express • MongoDB | — |
-| 🌐 [**Portfolio v3**](https://github.com/Jyatin/portfolio-v3) | Personal portfolio and frontend showcase | Frontend | [Visit portfolio](https://portfolio-v3-coral-five.vercel.app/) |
+| 📄 [**AskPDF**](https://github.com/Jyatin/AskPDF) | AI-powered PDF interaction application built around retrieval-augmented generation | TypeScript • AI • RAG | [Live link](https://ask-pdf-vert.vercel.app/) |
+| 🛒 [**KiranaWala**](https://github.com/Jyatin/KiranaWala) | Hyperlocal grocery platform with ordering, store and inventory management | MERN | [Live link](https://kirana-wala-1nhp.vercel.app) |
+| 🛡️ [**VoxShield**](https://github.com/Jyatin/VoiceGuard) | AI-powered voice deepfake detection using audio analysis and model confidence | React • TypeScript • FastAPI • Python | [Live link](https://voiceguard-seven.vercel.app) |
+| 💧 [**JalDrishti 2030**](https://github.com/Jyatin/Repository-name-JalDrishti-2030) | IoT–AI digital-twin research prototype for predictive urban water-stress and intervention planning in Bengaluru | Next.js • TypeScript • FastAPI | [Live link](https://repository-name-jal-drishti-2030-9o.vercel.app) |
+| 📍 [**FixMyWay**](https://github.com/Jyatin/-fixmyway) | Mobile civic-issue reporting with GPS, AI-assisted image analysis, duplicate detection, and issue tracking | React Native • Expo • Firebase • Gemini Vision | [Live link](https://raw.githubusercontent.com/Jyatin/-fixmyway/main/FixMyWay_LinkedIn_Showcase.mp4) |
+| 🔤 [**MyString**](https://github.com/Jyatin/MyString) | Custom C++ String implementation exploring OOP, memory management and operator overloading | C++ • OOP | [Live link](https://github.com/Jyatin/MyString#readme) |
+| 🌱 [**CropCycle**](https://github.com/Jyatin/Extraction-of-Crop-Cycle-Parameters-from-Multi-Temporal-Data) | Crop-cycle analysis platform using multi-temporal NDVI data | React • Node.js • Express • MongoDB | [Live link](https://github.com/Jyatin/Extraction-of-Crop-Cycle-Parameters-from-Multi-Temporal-Data#readme) |
+| 🌐 [**Portfolio v3**](https://github.com/Jyatin/portfolio-v3) | Personal portfolio and frontend showcase | Frontend | [Live link](https://portfolio-v3-coral-five.vercel.app/) |
 
 
 ---
