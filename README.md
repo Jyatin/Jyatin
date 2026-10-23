@@ -62,6 +62,7 @@ I contribute to real-world codebases across **frontend, backend, developer tooli
 | **OpenStory** | Improved workflow failure messages by removing internal child-workflow wrappers and surfacing useful failure reasons | [#2016](https://github.com/openstory-so/openstory/pull/2016) |
 | **OpenStory** | Added sequence-location → library support with authorization, React Query invalidation, and test coverage | [#2019](https://github.com/openstory-so/openstory/pull/2019) |
 | **OpenStory** | Rebranded the Bedroom Confessional style with updated style briefs and composer variants | [#2021](https://github.com/openstory-so/openstory/pull/2021) |
+| **OpenStory** | Refreshes video variants while generation is active to prevent stale model badges | [#2025](https://github.com/openstory-so/openstory/pull/2025) |
 | **OpenStory** | Migrated Storybook MSW setup from v2 → v3 and fixed Windows Vite path resolution | [#1307](https://github.com/openstory-so/openstory/pull/1307) |
 | **Shep AI** | Redesigned fleet status bar placement in the Control Center with interaction coverage | [#891](https://github.com/shep-ai/shep/pull/891) |
 | **Speech Dispatcher** | Added an Edge TTS generic output module with multilingual voice support | [#1110](https://github.com/brailcom/speechd/pull/1110) |
@@ -71,8 +72,6 @@ I contribute to real-world codebases across **frontend, backend, developer tooli
 
 | Project | Contribution | PR |
 |---|---|---|
-| **OpenStory** | Adds sequence-location → library support with authorization, React Query invalidation, and test coverage | [#2019](https://github.com/openstory-so/openstory/pull/2019) |
-| **OpenStory** | Refreshes video variants while generation is active to prevent stale model badges | [#2025](https://github.com/openstory-so/openstory/pull/2025) |
 | **Infisical** | Redacts GitLab credentials from secret-scanning errors and validates configured GitLab hosts | [#8471](https://github.com/Infisical/infisical/pull/8471) |
 | **TanStack Router** | Clarifies `<Outlet />` usage in nested layout routes | [#8478](https://github.com/TanStack/router/pull/8478) |
 | **OpenFeature JavaScript SDK** | Fixes React handling of default values when feature flags are missing | [#1451](https://github.com/open-feature/js-sdk/pull/1451) |
@@ -82,7 +81,7 @@ I contribute to real-world codebases across **frontend, backend, developer tooli
 
 > **Open source isn't just about having PRs on a profile — it's about reading unfamiliar code, understanding architecture, making targeted changes, writing tests, and working with maintainers.**
 
-**Open-source activity:** **8 merged · 6 open**
+**Open-source activity:** **9 merged · 5 open**
 
 **More contributions → [GitHub](https://github.com/Jyatin)**
 
