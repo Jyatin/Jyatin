@@ -37,6 +37,7 @@ I'm **Jyatin Kumar Singh**, a CSE student at **Lovely Professional University** 
 
 | Project | What it is | Stack | Live Demo |
 |---|---|---|---|
+| 🎓 [**Beyond the Rumour Mill**](https://github.com/Jyatin/beyond-the-rumour-mill-team) | Campus placement intelligence platform for structured interview experiences, verified company insights, candidate preparation, alumni discovery, and placement drives | Next.js 16 • React 19 • TypeScript • PostgreSQL • Drizzle ORM • Better Auth | [Live Demo](https://beyond-the-rumour-mill-main-mws322y1b-jyatin1.vercel.app) |
 | 📄 [**AskPDF**](https://github.com/Jyatin/AskPDF) | AI-powered PDF interaction application built around retrieval-augmented generation | TypeScript • AI • RAG | [Live link](https://ask-pdf-vert.vercel.app/) |
 | 🛒 [**KiranaWala**](https://github.com/Jyatin/KiranaWala) | Hyperlocal grocery platform with ordering, store and inventory management | MERN | [Live link](https://kirana-wala-1nhp.vercel.app) |
 | 🛡️ [**VoxShield**](https://github.com/Jyatin/VoiceGuard) | AI-powered voice deepfake detection using audio analysis and model confidence | React • TypeScript • FastAPI • Python | [Live link](https://voiceguard-seven.vercel.app) |
